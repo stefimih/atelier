@@ -30,7 +30,7 @@ my_list_odd = a[0:10:2]
 print(my_list_odd)
 print("\n")
 
-# cerinta
+# cerinta6
 print("Cerinta6\n")
 my_list_3multiple = a[2:9:3]
 print(my_list_3multiple)
