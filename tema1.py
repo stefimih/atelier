@@ -28,7 +28,7 @@ print("\n")
 print("Cerinta5\n")
 my_list_odd = a[0:10:2]
 print(my_list_odd)
-print("\n")
+print("1\n")
 
 # cerinta6
 print("Cerinta6\n")
